@@ -14,3 +14,4 @@ I passed in whatever error that the the validation was throwing, and views/layou
 It was funnnnn. Seemed very daunting at first because I was failing my homework (turned out the code I pulled wasn't compatible with the version of ruby I had previously installed). Really good spec. The instructions were clear and helped a lot.
 # Extra credit: Link your Heroku deployed app
 https://tiffanys-pokemon-app.herokuapp.com/
+#My repo: https://github.com/yttfwang/proj1
